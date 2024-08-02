@@ -6,7 +6,7 @@
   <img src="media/toggle-cycle.png" width="400" alt="Toggle any time"/>
   <img src="media/control-way.png" width="400" alt="Control the way you need"/>
 
-  <a href="https://github.com/zkondor/znotch/releases/download/v1.0.0/znotch-1.0.0.dmg"><img src="media/download-app-for-macos.png" width="155" alt="Download zNotch App for macOS"/></a>
+  <a href="https://github.com/zkondor/znotch/releases/download/untagged-03c42ed707380f08fc4f/znotch-1.0.1.dmg"><img src="media/download-app-for-macos.png" width="155" alt="Download zNotch App for macOS"/></a>
   <a href="https://github.com/zkondor/homebrew-dist"><img src="media/download-app-homebrew.png" width="155" alt="Download zNotch App using Homebrew"/></a>
 </div>
 
